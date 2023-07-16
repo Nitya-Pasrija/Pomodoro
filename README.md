@@ -8,7 +8,7 @@ Welcome to the Pomodoro App! This simple and effective productivity tool helps y
 
 ## Demo
 
-Check out the [live demo](https://cute-bublanina-00f506.netlify.app/) of the Pomodoro App to see it in action!
+Check out the [live demo](https://nityapasrija-pomodoro.netlify.app/) of the Pomodoro App to see it in action!
 
 
 ## Features
