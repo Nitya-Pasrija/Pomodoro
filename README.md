@@ -1,6 +1,6 @@
 # Pomodoro App
 
-![Alt text](image-1.png)
+![Modes](src/screenshots/image-1.png)
 
 ## Introduction
 
@@ -19,7 +19,7 @@ Check out the [live demo](https://nityapasrija-pomodoro.netlify.app/) of the Pom
 - **Font Customization**: Select from a variety of fonts to create a visually pleasing and inspiring interface.
 
 
-![Alt text](image-2.png)
+![Timer Countdown](src/screenshots/image-2.png)
 
 
 ## Usage
@@ -37,4 +37,4 @@ The Pomodoro App is released under the [MIT License](LICENSE).
 
 Let's maximize productivity and achieve great results with the Pomodoro App! Happy Pomodoro-ing!
 
-![Alt text](tri-color.jpg)
+![Color Modes Available](src/screenshots/tri-color.jpg)
